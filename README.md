@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/radymillacristiano">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=radymillacristiano&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=radymillacristiano&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,6 +27,6 @@
   <div> 
   <a href="https://instagram.com/radymilla_camilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  -->
+![Snake animation](https://github.com/radymillacristiano/radymillacristiano/blob/output/github-contribution-grid-snake.svg)
+
 </div>
