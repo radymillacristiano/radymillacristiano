@@ -1,12 +1,13 @@
-### Olá, sou a Radymilla 👋
+### Hi, I'm Radymilla 👋
 
 <!--
 **radymillacristiano/radymillacristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 💻 Aprendendo sobre o mundo da programação e do front-end
-- 👷‍ Estudante do ensino médio-técnico em edificações (3/4)
-- ✒ Designer iniciante e criadora de conteúdo
-- 🔎 Pesquisadora acadêmica
+- 💻 Learning about the world of programming and the front-end
+- 👷‍ High School Technical Student in Buildings (3/4)
+- ✒ Beginner Designer and Content Creator
+- 🔎 Academic researcher
+- 🎮 Gamer in his spare time
 
 
 <div align="center">
