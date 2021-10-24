@@ -7,7 +7,7 @@
 - 👷‍ High School Technical Student in Buildings (3/4)
 - ✒ Beginner Designer and Content Creator
 - 🔎 Academic researcher
-- 🎮 Gamer in his spare time
+- 🎮 Gamer in her spare time
 
 
 <div align="center">
