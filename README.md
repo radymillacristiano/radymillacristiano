@@ -26,7 +26,7 @@
   <img align="center" alt="Rady-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Rady-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg">
 
-  <img align="right" alt="Rady-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg">
+  <img align="right" alt="Rady-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_PcJYPyTK.png">
   
 <!--   icons = https://devicon.dev/
   badges = https://github.com/alexandresanlim/Badges4-README.md-Profile
