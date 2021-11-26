@@ -20,14 +20,26 @@
   <img align="center" alt="Rady-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rady-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rady-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rady-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css>
-  <img align="right" alt="Rady-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/HTDCHCB/download20210904191604.png">
+  <img align="center" alt="Rady-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Rady-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Rady-Inkscape" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Rady-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Rady-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="right" alt="Rady-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg">
+  
+<!--   icons = https://devicon.dev/
+  badges = https://github.com/alexandresanlim/Badges4-README.md-Profile
+   -->
 </div>
     
   ##
  
   <div> 
   <a href="https://instagram.com/radymilla_camilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/radymillacristiano" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://dribbble.com/Radymilla" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/radymilla" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+    
     
 ![Snake animation](https://github.com/radymillacristiano/radymillacristiano/blob/output/github-contribution-grid-snake.svg)
 
