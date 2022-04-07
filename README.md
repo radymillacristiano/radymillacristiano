@@ -4,7 +4,7 @@
 **radymillacristiano/radymillacristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 💻 Learning about the world of programming and the front-end
-- 👷‍ High School Technical Student in Buildings (3/4)
+- 👷‍ High School Technical Student in Buildings (4/4)
 - ✒ Beginner Designer and Content Creator
 - 🔎 Academic researcher
 - 🎮 Gamer in her spare time
