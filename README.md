@@ -4,9 +4,10 @@
 **radymillacristiano/radymillacristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 💻 Learning about the world of programming and the front-end
-- 👷‍ High School Technical Student in Buildings (4/4)
-- ✒ Beginner Designer and Content Creator
-- 🔎 Academic researcher
+- 🕣 Gap Year Student
+- 📐 Technician in Buildings
+- ✒ Designer and Content Creator
+- 🔎 Academic Researcher
 - 🎮 Gamer in her spare time
 
 
@@ -42,6 +43,6 @@
   <a href="https://codepen.io/radymilla" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
     
     
-![Snake animation](https://github.com/radymillacristiano/radymillacristiano/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![Snake animation](https://github.com/radymillacristiano/radymillacristiano/blob/output/github-contribution-grid-snake.svg)
+ -->
 </div>
