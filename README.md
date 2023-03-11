@@ -8,7 +8,6 @@
 - 📐 Technician in Buildings
 - ✒ Designer and Content Creator
 - 🔎 Academic Researcher
-- 🎮 Gamer in her spare time
 
 
 <div align="center">
