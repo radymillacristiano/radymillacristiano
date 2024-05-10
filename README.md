@@ -3,9 +3,9 @@
 <!--
 **radymillacristiano/radymillacristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 💻 Learning about the world of programming and front-end
+- 💻 Learning about the world of technology
 - 🕣 Gap Year Student
-- 🤖 Robotics and Development
+- 🤖 Robotics, Development and IoT
 - 🖋️ Designer and Content Creator
 - 🔎 Academic Researcher
 
