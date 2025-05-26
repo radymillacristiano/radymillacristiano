@@ -8,7 +8,7 @@
 - 🎨 Front-end Developer and Designer
 - 🔎 STEAM Researcher
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=radymillacristiano&mode=weekly&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=radymillacristiano&theme=dark)](https://git.io/streak-stats)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=vue-dark"/>
 
 <div align="center">
