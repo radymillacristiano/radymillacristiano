@@ -9,7 +9,7 @@
 - 🔎 STEAM Researcher
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=radymillacristiano&theme=dark)](https://git.io/streak-stats)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=vue-dark"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=dark"/>
 
 <div align="center">
 <!--   <a href="https://github.com/radymillacristiano">
