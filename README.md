@@ -7,6 +7,9 @@
 - 🤖 Robotics, IoT, AI, and Cloud Enthusiastic 
 - 🎨 Front-end Developer and Designer
 - 🔎 STEAM Researcher
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=radymillacristiano&label=Profile%20views&color=3D348B&style=flat" alt="radymillacristiano" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=radymillacristiano&theme=dark)](https://git.io/streak-stats)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=dark"/>
