@@ -3,10 +3,12 @@
 <!--
 **radymillacristiano/radymillacristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 💻 Learning about the world of technology
-- 🤖 Robotics, IoT, AI, and Cloud Enthusiastic 
-- 🎨 Front-end Developer and Designer
-- 🔎 STEAM Researcher
+- 💻 Passionate about technology and design, turning ideas into real-world solutions
+- 🎖️ 4× Hackathon Winner
+- 🏆 30+ Awards in Robotics, Science Fairs, and Academic Competitions
+- 🎨 Product Designer & Front-end Developer
+- 🤖 Enthusiast of Robotics, AI, and IoT
+- ☁️ AWS Certified Cloud Practitioner
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=radymillacristiano&label=Profile%20views&color=3D348B&style=flat" alt="radymillacristiano" />
 </p>
