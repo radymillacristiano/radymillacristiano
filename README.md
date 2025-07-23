@@ -3,10 +3,10 @@
 <!--
 **radymillacristiano/radymillacristiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 💻 Passionate about technology and design, turning ideas into real-world solutions
+**Passionate about technology and design | Turning ideas into real-world solutions**
 - 🏆 30+ Awards in Robotics, Science Fairs, and Academic Competitions
-- 🎨 Product Designer & Front-end Developer
-- 🤖 Enthusiast of Robotics, AI, and IoT
+- 🎨 Product Designer and Front-end Developer
+- 🤖 Robotics, AI, and IoT Enthusiast
 - ☁️ AWS Certified Cloud Practitioner
 - 🎖️ 4× Hackathon Winner
 <p align="left">
