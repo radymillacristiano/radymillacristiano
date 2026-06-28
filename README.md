@@ -16,6 +16,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=radymillacristiano&theme=dark)](https://git.io/streak-stats)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radymillacristiano&layout=compact&langs_count=7&theme=dark"/>
 
+<img width="90%" src="https://64.media.tumblr.com/3c065c631723710271f4b6f15dfe3a16/tumblr_pv5623ZzA71qciqqno8_540.gif"/>
+
 <div align="center">
 <!--   <a href="https://github.com/radymillacristiano">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=radymillacristiano&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
